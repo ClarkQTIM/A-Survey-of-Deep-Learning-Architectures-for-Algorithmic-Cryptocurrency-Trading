@@ -1,4 +1,5 @@
-# A-Survey-of-Deep-Learning-Architectures-for-Algorithmic-Cryptocurrency-Trading
+# A Survey of Deep Learning Architectures for Algorithmic Cryptocurrency Trading
+
 This repository is for the project A Survey of Deep Learning Architectures for Algorithmic Cryptocurrency Trading, delivered on April 22, 2022 for the University of Colorado Denver's M.S. Statistics program.
 
 In this project, we looked at several different architectures as potential decision-making agents for an algorithmic cryptocurrency program. The algorithms can be broadly grouped into three categories: Classical Statisical Forecasting and eXtreme Gradient Boosting, Artificial Neural Networks, and Reinforcement Learning.
